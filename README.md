@@ -6,4 +6,4 @@ An IoT ML bot recycling bot trained using Tensorflow to recognise the difference
 Nick Carmont
 
 ## Demo
-![](iot-ML-recycling-bot.gif)
+![](walle-demo.gif)
